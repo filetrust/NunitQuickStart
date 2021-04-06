@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SUT
 {
-    class ClassB
+    public class ClassB
     {
         public string g(IMyInterface myInterface)
         {

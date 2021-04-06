@@ -2,7 +2,7 @@
 
 namespace SUT
 {
-    class ClassA : IMyInterface
+    public class ClassA : IMyInterface
     {
         public string f()
         {
