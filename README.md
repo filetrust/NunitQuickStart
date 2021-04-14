@@ -102,7 +102,7 @@ At this point, we can run the project test executable and we will see all our te
 
 The tests are visible in the Visual Studio Test Explorer.
 
-## Mom Mocking Framework
+## Moq Mocking Framework
 
 With a codebase that uses an C#, a good mocking framework should be used with the unit testing framework.  The [Moq](https://github.com/moq/moq4) mocking framework provides us with an ability to remove the need to worry about creating classes, such as `ClassA`, and have better control over how they interact with the class under test, that is `ClassB`. 
 
